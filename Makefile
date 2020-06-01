@@ -1,2 +1,2 @@
 all:
-gcc -o geometry -Wall -Werror *.c -lm
+	gcc -o geometry -Wall -Werror *.c -lm
